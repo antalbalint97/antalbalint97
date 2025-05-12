@@ -11,6 +11,6 @@ Hello, I'm Bálint a Data Scientist from Hungary!
 
 ### Tech stack
 
-- Python, SQL, bash, learning C# and OOP principles for scraping, data manipulation, ML and other general uses
+- Python, SQL, bash, learning OOP principles and Docker for delivering end-to-end solutions
 - Power BI, VBA and Excel for data analytics
 - Git, Jira
