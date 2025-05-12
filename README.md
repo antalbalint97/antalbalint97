@@ -2,8 +2,8 @@ Hello, I'm Bálint a Data Scientist from Hungary!
 ### About me
 
 - I work as a Data Scientist at Dunnhumby in the retail industry
-- Always open to learn and growth, currently learning **Blender, digital art, and Advanced Machine Learning**.
--  Fun fact: I love **sci-fi stories** and **game development**!
+- Always open to learn and growth, currently learning **Advanced Machine Learning**.
+-  Fun fact: I love **sci-fi stories** and **role-playing games**!
 
 ### Projects
 
