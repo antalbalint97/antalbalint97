@@ -8,7 +8,6 @@ Hello, I'm Bálint a Data Scientist from Hungary!
 ### Projects
 
 - [Vitastat](https://github.com/antalbalint97/Alistat) - Vitastat is a data-driven project that analyzes Hungarian gastroculture using recipe and ingredient data scraped from nosalty.hu.
-- [Automation](https://github.com/antalbalint97/automation) - here you can find small automation scripts and solutions I have been working on
 
 ### Tech stack
 
