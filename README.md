@@ -12,7 +12,7 @@
 
 ### 👋 About me
 
-I'm a Data Scientist at **Dunnhumby** working in the retail industry, and a solo founder building **Revon** — a B2B lead scoring SaaS powered by ML. I enjoy the full journey from raw data to production-ready systems, and I'm always leveling up on the engineering side of things.
+I'm a Data Scientist at **Dunnhumby** working in the retail industry, and a solo founder building **Revon** - a B2B lead scoring SaaS powered by ML. I enjoy the full journey from raw data to production-ready systems, and I'm always leveling up on the engineering side of things.
 
 - 🏢 **Day job**: Data Scientist @ Dunnhumby (retail analytics)
 - 🚀 **Side project**: Building [Revon](https://github.com/antalbalint97) - a multi-tenant B2B lead scoring platform (GCP, Node.js, k-NN)
