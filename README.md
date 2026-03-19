@@ -1,63 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Bálint!&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20SaaS%20Builder&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Bálint!&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20%26%20Data%20Engineer%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+products;Building+ML+pipelines+end-to-end;SaaS+founder+%40+Revon;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+real+products;Building+ML+pipelines+end-to-end;RAG+systems%2C+GenAI%2C+and+cloud+architecture;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👋 About me
+### About me
 
-I'm a Data Scientist at **Dunnhumby** working in the retail industry, and a solo founder building **Revon** - a B2B lead scoring SaaS powered by ML. I enjoy the full journey from raw data to production-ready systems, and I'm always leveling up on the engineering side of things.
+Applied AI & Data Engineer at **Dunnhumby**, building production ML pipelines for Tesco's loyalty platform. On the side I ship GenAI projects, interactive learning tools, and SaaS products — from idea to deployed product.
 
-- 🏢 **Day job**: Data Scientist @ Dunnhumby (retail analytics)
-- 🚀 **Side project**: Building [Revon](https://www.revon.site/) - a multi-tenant B2B lead scoring platform (GCP, Node.js, k-NN)
-- 📍 Based in **Hungary**
-- 🎯 Currently leveling up: **OOP, Docker, ML system design**
-- 🎲 Fun fact: I love sci-fi stories and role-playing games
-
----
-
-### 🛠️ Tech Stack
-
-**Data & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Engineering & Cloud**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Analytics & Viz**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- **Day job:** Applied AI & Data Engineer @ Dunnhumby — PySpark, Azure, Power BI, retail ML at scale
+- **Side projects:** RAG systems, full-stack AI apps, MLE learning tools, and a B2B SaaS
+- **AWS Certified Machine Learning Engineer – Associate** (Sept 2025)
+- Based in **Hungary** | open to remote collaboration
+- I love sci-fi and role-playing games
 
 ---
 
-### 🚀 Featured Projects
+### Skills
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🏢 **[Revon](https://www.revon.site/)** | Multi-tenant B2B lead scoring SaaS - enriches, scores, and ranks leads automatically | GCP, Node.js, k-NN, Pub/Sub |
-| 🍽️ **[Vitastat](https://github.com/antalbalint97/vitastat)** | Analyzes Hungarian gastroculture using scraped recipe & ingredient data from nosalty.hu | Python, SQL, Jupyter, web scraping |
-| 📈 **[Stock Prediction](https://github.com/antalbalint97/stock_prediction)** | ML-based stock price prediction experiments | Python |
-| 🤖 **[Automation](https://github.com/antalbalint97/automation)** | Workflow automation scripts | Python |
+**AI & Machine Learning**
+scikit-learn · PyTorch · LSTM · GRU · Bayesian modeling · reinforcement learning · regression · segmentation
+
+**GenAI & LLM**
+RAG · LangChain · prompt engineering · vector search · FAISS · AWS Bedrock · embeddings
+
+**Frontend & Backend**
+React · Next.js · TypeScript · FastAPI · PySpark · Python · SQL · Bash · Streamlit · Dash
+
+**Cloud & MLOps**
+AWS (SageMaker, S3, Lambda, Bedrock) · Azure · Docker · MLOps · Rundeck · Git
+
+**Data & Analytics**
+pandas · NumPy · Plotly · Power BI · Tableau · Looker · Google Analytics · Excel
 
 ---
 
-### 📊 GitHub Stats
+### Featured Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **AI Research Intelligence** | Fully local RAG system for querying arXiv papers — CPU-only, FAISS index, quantized LLM, no paid APIs | Python · FAISS · LLM · Docker | [repo](https://github.com/antalbalint97/ai_research_intelligence) |
+| **TasteTrend Analytics** | GenAI RAG PoC for restaurant operators — natural language queries over customer reviews, AWS Bedrock Agent + OpenSearch vector index | AWS Bedrock · Lambda · OpenSearch · Claude 3 | [demo](https://tastetrend-ai-demo.vercel.app/) · [repo](https://github.com/antalbalint97/tastetrend_analytics_genai) |
+| **Nullfall** | Interactive coding practice app for ML Engineers — dungeon-style quest engine, browser code editor, topic-filtered problem sets | Next.js · TypeScript | [repo](https://github.com/antalbalint97/nullfall) |
+| **Metis** | Full-stack education platform and mentoring program — routing, responsive UI, production deployment | Next.js · TypeScript | [live](https://metis-pi-five.vercel.app/) |
+| **RPS Arena** | AI bot competition entry — 10+ agents using Bayesian modeling, RL, LSTM/GRU; placed **2nd overall** at Rock Paper Code | Python · PyTorch · Bayesian · RL | [repo](https://github.com/antalbalint97/rps) · [competition](https://rockpapercode.onespire.hu/) |
+| **Revon** | Multi-tenant B2B lead scoring SaaS — enriches, scores, and ranks leads automatically | GCP · Node.js · k-NN · Pub/Sub | [site](https://www.revon.site/) |
+| **Vitastat** | Data-driven analysis of Hungarian gastroculture using scraped recipe data from nosalty.hu | Python · SQL · Jupyter | [repo](https://github.com/antalbalint97/vitastat) |
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antalbalint97&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
@@ -66,19 +64,9 @@ I'm a Data Scientist at **Dunnhumby** working in the retail industry, and a solo
 
 ---
 
-### 📬 Let's connect
+### Let's connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/balint-antal97">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:antalbalint97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/antalbalint97">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/balint-antal97/) · [GitHub](https://github.com/antalbalint97) · antalbalint97@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
