@@ -50,7 +50,7 @@ I'm a Data Scientist at **Dunnhumby** working in the retail industry, and a solo
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🏢 **[Revon](https://github.com/antalbalint97)** | Multi-tenant B2B lead scoring SaaS — enriches, scores, and ranks leads automatically | GCP, Node.js, k-NN, Pub/Sub |
+| 🏢 **[Revon](https://github.com/antalbalint97)** | Multi-tenant B2B lead scoring SaaS - enriches, scores, and ranks leads automatically | GCP, Node.js, k-NN, Pub/Sub |
 | 🍽️ **[Vitastat](https://github.com/antalbalint97/vitastat)** | Analyzes Hungarian gastroculture using scraped recipe & ingredient data from nosalty.hu | Python, SQL, Jupyter, web scraping |
 | 📈 **[Stock Prediction](https://github.com/antalbalint97/stock_prediction)** | ML-based stock price prediction experiments | Python |
 | 🤖 **[Automation](https://github.com/antalbalint97/automation)** | Workflow automation scripts | Python |
