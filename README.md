@@ -55,15 +55,6 @@ pandas · NumPy · Plotly · Power BI · Tableau · Looker · Google Analytics �
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antalbalint97&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalbalint97&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ### Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/balint-antal97/) · [GitHub](https://github.com/antalbalint97) · antalbalint97@gmail.com
